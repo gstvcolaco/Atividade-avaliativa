@@ -1,0 +1,31 @@
+body {
+    background-color:pink;
+}
+#fot {
+    color: orange
+}
+#bord {
+    border-radius: 10px;
+    background-color: white;
+    color: darkgreen;
+}
+#bord2 {
+    background-color: white;
+    color: darkgreen;
+}
+#bord3 {
+    background-color: white;
+    color: darkgreen;
+}
+#tb1 {
+    background-color: pink;
+}
+#tb2 {
+    background-color: pink;
+}
+#ol1 {
+    color:crimson
+}
+#h1 {
+    color: crimson;
+}
